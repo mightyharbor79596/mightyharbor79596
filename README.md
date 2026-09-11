@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm mightyharbor79596
 
-<!--
-**mightyharbor79596/mightyharbor79596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out one project at a time.
 
-Here are some ideas to get you started:
+### About me
+- Currently exploring backend and scripting stuff
+- Learning by building small tools and messing around with code
+- Still early in the journey, but enjoying the process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- Python
+- JavaScript / Node
+- Git & Linux
+- Occasional HTML/CSS when needed
+
+### Projects
+Nothing big public yet — this space will fill up as I ship things.
+
+Feel free to check back later or drop a star if something interesting shows up.
